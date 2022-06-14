@@ -1,13 +1,13 @@
-import logo from './logo.svg';
+
 import './App.css';
+import TeacherDashboard from './Pages/TeacherDashboard'
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-
-
-      </header>
+    <div>
+      <TeacherDashboard />
+      I AM ON THE MASTER BRANCH
     </div>
   );
 }
