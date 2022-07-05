@@ -14,9 +14,9 @@ export default function NavBar() {
         <div className='right-box'>
             <div className='right-box-left'>
                 
-                <div id='right-box-link-one'>
+                {/* <div id='right-box-link-one'>
                     <a href=' '><img src='../images/CTA Button0.svg' alt='' className='right-box-link-one-link'/></a>
-                </div>
+                </div> */}
                 <div id='right-box-link-one'>
                     <a href=' '><img src='../images/CTA Button1.svg' alt='' className='right-box-link-one-link'/></a>
                 </div>

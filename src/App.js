@@ -4,10 +4,15 @@ import TeacherDashboard from './Pages/TeacherDashboard'
 
 
 function App() {
+  
+  const textHolder = 'THIS IS A TEXT TEST - TEST'
+  const black = `{{display:'inline'}}`
+
   return (
     <div>
-      <TeacherDashboard />
-      NO I AM ON THE RAY FEATURE BRANCH
+      THIS IS APP
+      <TeacherDashboard name={textHolder} check={black} />
+      
     </div>
   );
 }
