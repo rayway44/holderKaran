@@ -10,9 +10,12 @@ function App() {
 
   return (
     <div>
-      THIS IS APP
-      <TeacherDashboard name={textHolder} check={black} />
-      
+      Changes made on RAY FEATURE
+          Changes made on RAY FEATURE
+          Changes made on RAY FEATURE
+          Changes made on RAY FEATURE
+          Changes made on RAY FEATURE
+          Changes made on RAY FEATURE
     </div>
   );
 }
