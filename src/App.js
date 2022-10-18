@@ -11,11 +11,7 @@ function App() {
   return (
     <div>
       Changes made on RAY FEATURE
-          Changes made on RAY FEATURE
-          Changes made on RAY FEATURE
-          Changes made on RAY FEATURE
-          Changes made on RAY FEATURE
-          Changes made on RAY FEATURE
+ 
     </div>
   );
 }
